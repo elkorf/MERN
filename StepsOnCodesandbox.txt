@@ -1,0 +1,5 @@
+#1. Change the name of client application from "react" to actual from package.json file.
+#2. (Optional as codesandbox tries it automatically) New Terminal > "npm start" for to start client
+#3. New Terminal > node server.js to start server
+
+Done. 
