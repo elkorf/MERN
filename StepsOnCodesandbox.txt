@@ -1,5 +1,7 @@
 #1. Change the name of client application from "react" to actual from package.json file.
 #2. (Optional as codesandbox tries it automatically) New Terminal > "npm start" for to start client
-#3. New Terminal > node server.js to start server
+#3. New Terminal > "node server.js" to start server
+#4.(Optional) Server Terminal > "npm install -g nodemon" to auto run the server when any file is modified
+#5. Server Terminal > Run the server: "nodemon server.js" if you have installed the nodemon
 
 Done. 
